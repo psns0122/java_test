@@ -143,4 +143,7 @@ gradle-app.setting
 # Java heap dump
 *.hprof
 
+.class
+out/production/java-basic/*.class
+
 # End of https://www.toptal.com/developers/gitignore/api/intellij+iml,gradle
